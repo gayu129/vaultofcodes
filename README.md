@@ -9,12 +9,14 @@ The goal of this project is to create a versatile prompt generator that provides
 3. Outcome: A diverse collection of prompts that inspire narrative development and enhance creative writing skills.
 
 **Prompt Structure**
+
 Each prompt will include:
 •	Genre: The category of the story (e.g., fantasy, romance, thriller).
 •	Theme: The underlying message or central idea (e.g., redemption, love, betrayal).
 •	Character Type: The main character's role or archetype (e.g., hero, anti-hero, mentor).
 
 **Example Prompts**
+
 Fantasy
 Prompt: In a world where dreams can be harvested as energy, a reluctant dreamweaver discovers a plot to control the dreams of the innocent. Can they unite with a band of misfits to save the dreamscape?
 
