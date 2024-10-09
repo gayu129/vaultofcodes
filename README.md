@@ -17,8 +17,10 @@ Each prompt will include:
 **Example Prompts**
 Fantasy
 Prompt: In a world where dreams can be harvested as energy, a reluctant dreamweaver discovers a plot to control the dreams of the innocent. Can they unite with a band of misfits to save the dreamscape?
+
 Romance
 Prompt: Two rival bakers in a small town are forced to team up for a prestigious baking competition. As they navigate their differences, they uncover a shared past that could change everything.
+
 Thriller
 Prompt: A detective with a troubled past receives an anonymous tip about a series of disappearances linked to an underground cult. As they dig deeper, they realize the cult has ties to their own family.
 
